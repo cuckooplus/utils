@@ -1,4 +1,4 @@
-package com.cuckooing.utils;
+package io.github.cuckooplus.uitls;
 
 import com.google.zxing.BarcodeFormat;
 import com.google.zxing.EncodeHintType;

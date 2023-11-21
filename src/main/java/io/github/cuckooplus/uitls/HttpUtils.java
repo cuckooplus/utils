@@ -1,4 +1,4 @@
-package com.cuckooing.utils;
+package io.github.cuckooplus.uitls;
 
 import org.apache.commons.lang.StringUtils;
 import org.apache.http.HttpResponse;

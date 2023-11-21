@@ -1,4 +1,4 @@
-package com.cuckooing.utils;
+package io.cuckooing.utils;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

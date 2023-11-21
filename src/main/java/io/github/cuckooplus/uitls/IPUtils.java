@@ -10,7 +10,7 @@ import java.util.Random;
  * @author cuckooing
  * @date 2022/11/21
  */
-public class IPUtil {
+public class IPUtils {
 
     /**
      * 获取IP地址
